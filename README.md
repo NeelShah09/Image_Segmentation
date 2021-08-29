@@ -8,4 +8,4 @@ In this project, Semantic Segmentation is performed to identify the road, vehicl
 
 [Dataset](https://www.kaggle.com/kumaresanmanickavelu/lyft-udacity-challenge)
 
-Sample Output for road segmentation.
+![](https://github.com/NeelShah09/Image_Segmentation/blob/main/Sample%20Output.png?raw=true)
